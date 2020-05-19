@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../imagem/Lion-Backgrounds.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    padding: 15px;
+    font-size: 50px;
+    background-color: gold;
+    border-bottom:solid 3px black;
+    border-bottom-left-radius: 20px; 
+    
+}
+
+form{
+    position: relative;
+    margin-top: 10%;
+    margin-left: 3%;
+   
+}
+
+.divInput{
+    background-color: orange;
+    width: 25%;
+    text-align: center;
+    position: relative;
+    float: left;
+    margin: 20px;
+    border-radius: 15px;
+    border: solid 3px black;
+}
+.h3form{
+    position: relative;
+    text-align: center;
+    padding: 10px;
+}
+
+input{
+    text-align: center;
+    border-radius: 5px;
+    border: solid 1px black;
+    padding: 5px;
+}
+
+#btnAdicionar{
+    position: relative;
+    left: 1%;
+    
+}
+
+.reset{
+    position: relative;
+    left: 2%;
+}
+
+.dinamic{
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    padding: 20px;
+    border: solid 2px black;
+    border-radius: 5px;
+    background-color: gold;
+}
+
+#divPai{
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.h2form{
+    color: gold;
+    position: relative;
+    padding: 12px;
+    left: 13%;
+    
+    
+}
